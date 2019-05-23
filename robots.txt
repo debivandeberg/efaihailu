@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aebiewahfu.teelinmaloney.com/sitemap.xml
